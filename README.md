@@ -1,6 +1,6 @@
 # Culture & Commerce Snapshot: Dolls Kill
 
-**Live dashboard:** [(https://dollskill-culture-commerce-hvvxpmhybqqvrbygskzsi7.streamlit.app/)]
+**Live dashboard:** (https://dollskill-culture-commerce-n4hhemsxohzvyqrd32xryc.streamlit.app/)
 
 An independent analysis of when rave and festival demand happens, and where Dolls Kill sits on price against rave-wear competitors. It's built entirely on public data, as a working example of the Culture & Commerce Analyst role I proposed through Dolls Kill's *Name Your Job* program.
 
